@@ -1,0 +1,5 @@
+Django==1.8.5
+djangorestframework==3.2.4
+Pillow==3.0.0
+sorl-thumbnail==12.3
+wheel==0.26.0
